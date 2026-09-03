@@ -1,0 +1,13 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* This hides the "maintained by" text */
+.repo-owner {
+    display: none !important;
+}
+
+/* Optional: This hides the "View on GitHub" buttons if you want it to look less like a code repository */
+.buttons, .view {
+    display: none !important;
+}
