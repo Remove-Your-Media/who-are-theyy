@@ -1,3 +1,8 @@
 title: "Who is Remove Your Media LLC?"
 description: "Are they legitimate? And who is Eric Green?"
 theme: jekyll-theme-midnight
+
+image: "/embed-icon.png"
+
+plugins:
+  - jekyll-seo-tag

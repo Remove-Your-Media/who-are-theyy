@@ -2,7 +2,6 @@
 ---
 @import "{{ site.theme }}";
 
-/* Hides both "Project maintained by" and "Hosted on GitHub Pages" */
 .credits {
     display: none !important;
 }
