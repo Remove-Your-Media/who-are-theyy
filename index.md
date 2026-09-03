@@ -1,4 +1,9 @@
-# Fake company?
+---
+title: "Fake company?"
+image: "/embed-icon.png"
+---
+
+# Case Overview
 
 - yes, they are unprofessional asf, such as the 2016 incident, where [the CEO, Eric Green, created a website that leaked the personal info of everyone that had dared to file counter-notices against his DMCA notices](https://torrentfreak.com/anti-piracy-group-reveals-personal-details-of-counter-notice-senders-160730/) (and not like Lumen, but w/o any redactions mind you)
 
@@ -11,7 +16,7 @@ Click on a name to view more information:
 * [Eric Green](./eric_green) - CEO
 * [Joshua Sheridan](./joshua_sheridan) - AI DMCA automation architect
 * [Jamie Gardner](./jamie_gardner) - Manual Anti-Piracy Researcher
-* [Evan Stone](./evan_stone) - (former?) attorney
+* [Evan Stone](./evan_stone) - former(?) attorney
 
 ---
 
