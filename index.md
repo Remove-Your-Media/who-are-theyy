@@ -7,9 +7,10 @@
 
 ## Key Individuals
 Click on a name to view more information:
-* [Eric Green](./eric_green)
-* [Person Two](./person_two)
-* [Person Three](./person_three)
+* [Eric Green](./eric_green) - CEO
+* [Joshua Sheridan](./joshua_sheridan) - AI DMCA automation architect
+* [Jamie Gardner](./jamie_gardner) - Manual Anti-Piracy Researcher
+* [Evan Stone](./evan_stone) - (former?) attorney
 
 ---
 
