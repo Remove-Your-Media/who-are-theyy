@@ -2,12 +2,7 @@
 ---
 @import "{{ site.theme }}";
 
-/* This hides the "maintained by" text */
-.repo-owner {
-    display: none !important;
-}
-
-/* Optional: This hides the "View on GitHub" buttons if you want it to look less like a code repository */
-.buttons, .view {
+/* Hides both "Project maintained by" and "Hosted on GitHub Pages" */
+.credits {
     display: none !important;
 }
